@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaNuker\NovaNuker\bin\Debug\NovaNuker.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaNuker\NovaNuker\bin\Debug\NovaNuker.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaNuker\NovaNuker\bin\Debug\NovaNuker.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaNuker\NovaNuker\obj\Debug\NovaNuker.csprojAssemblyReference.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaNuker\NovaNuker\obj\Debug\NovaNuker.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaNuker\NovaNuker\obj\Debug\NovaNuker.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaNuker\NovaNuker\obj\Debug\NovaNuker.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaNuker\NovaNuker\bin\Debug\Anarchy.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaNuker\NovaNuker\bin\Debug\Leaf.xNet.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaNuker\NovaNuker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaNuker\NovaNuker\bin\Debug\websocket-sharp.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaNuker\NovaNuker\bin\Debug\Leaf.xNet.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaNuker\NovaNuker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaNuker\NovaNuker\obj\Debug\NovaNuker.csproj.CopyComplete
